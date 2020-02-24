@@ -3,7 +3,7 @@ from tkinter import *
 import tkinter
 import tkinter as tk
 import time
-from pynput.keyboard import Key, Controller as KeyboardController
+from pynput.keyboard import Key, KeyCode, Controller as KeyboardController,Listener
 from pynput.mouse import  Button, Controller as MouseController
 from tkinter import ttk
 
@@ -17,6 +17,7 @@ xlist = []
 ylist = []
 customList= []
 typeorprint = []
+
 
 def removeData():
     selectedop = mylist.curselection()[0]
@@ -39,6 +40,8 @@ def removeData():
     else:
         pauseTime.pop(selectedop)
         commands.pop(selectedop)
+
+
 def lc():
 
     global v
@@ -1540,7 +1543,7 @@ def main_outputInstruction():
     return pauseTime, commands
 
 
-def mostimppart():
+def mostimppart(event=''):
     global repeat
     r=-1
     n = pauseTime
@@ -2036,7 +2039,6 @@ def mostimppart():
 
 
 
-
 def mouposi():
     pt = POINT()
     windll.user32.GetCursorPos(byref(pt))
@@ -2076,6 +2078,15 @@ sb.pack(side=RIGHT, fill=Y)
 mylist = Listbox(main_screen, yscrollcommand=sb.set, width=80, height=23)
 sb.config(command=mylist.yview)
 
+
+
+
+def exitfunc():
+    main_screen.quit()
+
+
+main_screen.bind('<Control-s>', mostimppart)
+main_screen.bind('<Control-s>', exitfunc)
 # main tab
 tabs = ttk.Notebook(main_screen)
 
@@ -2320,5 +2331,7 @@ btn = Radiobutton(other_keys, text="F11", variable=v, value=90, command=f11)
 btn.place(x=262, y=50)
 btn = Radiobutton(other_keys, text="F12", variable=v, value=91, command=f12)
 btn.place(x=306, y=50)
+
 tabs.pack(fill=X)
 main_screen.mainloop()
+
