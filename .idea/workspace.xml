@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2cb2a0f-1d99-4044-9517-90db734a94e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dgdg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dgdg.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b2cb2a0f-1d99-4044-9517-90db734a94e4" name="Default Changelist" comment="added a start/stop shortcut key">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auto.py" beforeDir="false" afterPath="$PROJECT_DIR$/auto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +30,54 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.auto">
+    <configuration name="Home (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dgdg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Home" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dgdg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\PycharmProjects\auto-clicker\Home.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="auto" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="dgdg" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,10 +122,14 @@
     </configuration>
     <list>
       <item itemvalue="Python.auto" />
+      <item itemvalue="Python.Home (1)" />
+      <item itemvalue="Python.Home" />
       <item itemvalue="Python.l" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Home" />
+        <item itemvalue="Python.Home (1)" />
         <item itemvalue="Python.l" />
       </list>
     </recent_temporary>
@@ -112,44 +157,72 @@
       <option name="presentableId" value="Default" />
       <updated>1566572051480</updated>
     </task>
+    <task id="LOCAL-00001" summary="added a start/stop shortcut key">
+      <created>1582561282595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582561282595</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added a start/stop shortcut key" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a start/stop shortcut key" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582460133747">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1582460133747" />
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1582561281490">
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1582561292701">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1582561281490" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1576668969872">
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1582561292701" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1583466471289">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576668969872" />
-    <state width="1259" height="2" key="GridCell.Tab.0.bottom" timestamp="1582560320611">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583466471289" />
+    <state width="1259" height="106" key="GridCell.Tab.0.bottom" timestamp="1585821035788">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582560320611" />
-    <state width="1259" height="2" key="GridCell.Tab.0.center" timestamp="1582560320611">
+    <state width="1259" height="106" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585821035788" />
+    <state width="1259" height="106" key="GridCell.Tab.0.center" timestamp="1585821035788">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582560320611" />
-    <state width="1259" height="2" key="GridCell.Tab.0.left" timestamp="1582560320611">
+    <state width="1259" height="106" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585821035788" />
+    <state width="1259" height="106" key="GridCell.Tab.0.left" timestamp="1585821035788">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582560320611" />
-    <state width="1259" height="2" key="GridCell.Tab.0.right" timestamp="1582560320611">
+    <state width="1259" height="106" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585821035788" />
+    <state width="1259" height="106" key="GridCell.Tab.0.right" timestamp="1585821035788">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582560320611" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1576669191738">
+    <state width="1259" height="106" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585821035788" />
+    <state width="1259" height="202" key="GridCell.Tab.1.bottom" timestamp="1583143280761">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576669191738" />
+    <state width="1259" height="202" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583143280761" />
+    <state width="1259" height="202" key="GridCell.Tab.1.center" timestamp="1583143280761">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="202" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1583143280761" />
+    <state width="1259" height="202" key="GridCell.Tab.1.left" timestamp="1583143280761">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="202" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1583143280761" />
+    <state width="1259" height="202" key="GridCell.Tab.1.right" timestamp="1583143280761">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="202" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1583143280761" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1582559808990">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1582559808990" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1583464276337">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1583464276337" />
   </component>
 </project>
