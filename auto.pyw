@@ -1988,7 +1988,7 @@ tabs = ttk.Notebook(main_screen)
 # mouse
 
 Mouse_Clicks = ttk.Frame(tabs)
-newlist = tk.Button(Mouse_Clicks, text="Press This To Locate X & Y", command=rfneokfge)
+newlist = tk.Button(Mouse_Clicks, text="Locate X & Y", command=rfneokfge)
 newlist.place(x=150, y=40)
 
 
