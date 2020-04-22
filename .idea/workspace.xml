@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b2cb2a0f-1d99-4044-9517-90db734a94e4" name="Default Changelist" comment="added a start/stop shortcut key">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auto.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +25,11 @@
   <component name="ProjectId" id="1PpXXaqnFkSR8OtSSkfSSpYWT9T" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/bibhu ko folder/programming/python/projects/vehicle recognizer" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -121,9 +119,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.auto" />
       <item itemvalue="Python.Home (1)" />
       <item itemvalue="Python.Home" />
+      <item itemvalue="Python.auto" />
       <item itemvalue="Python.l" />
     </list>
     <recent_temporary>
@@ -133,18 +131,6 @@
         <item itemvalue="Python.l" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -180,26 +166,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1582561292701" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1583466471289">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1586951230227">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583466471289" />
-    <state width="1259" height="106" key="GridCell.Tab.0.bottom" timestamp="1585821035788">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586951230227" />
+    <state width="1259" height="106" key="GridCell.Tab.0.bottom" timestamp="1586666932623">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="106" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585821035788" />
-    <state width="1259" height="106" key="GridCell.Tab.0.center" timestamp="1585821035788">
+    <state width="1259" height="106" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586666932623" />
+    <state width="1259" height="106" key="GridCell.Tab.0.center" timestamp="1586666932623">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="106" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585821035788" />
-    <state width="1259" height="106" key="GridCell.Tab.0.left" timestamp="1585821035788">
+    <state width="1259" height="106" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586666932623" />
+    <state width="1259" height="106" key="GridCell.Tab.0.left" timestamp="1586666932623">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="106" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585821035788" />
-    <state width="1259" height="106" key="GridCell.Tab.0.right" timestamp="1585821035788">
+    <state width="1259" height="106" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586666932623" />
+    <state width="1259" height="106" key="GridCell.Tab.0.right" timestamp="1586666932623">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="106" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585821035788" />
+    <state width="1259" height="106" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586666932623" />
     <state width="1259" height="202" key="GridCell.Tab.1.bottom" timestamp="1583143280761">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
