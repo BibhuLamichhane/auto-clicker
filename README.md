@@ -1,3 +1,6 @@
+First of all, excuse my unprofessional code. This was the first "major" project I made after learing python.
+
+
 # Auto Typer/Clicker
 
 1. Run the command "pip install -r requirements.txt" in your CLI
