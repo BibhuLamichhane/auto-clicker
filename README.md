@@ -1,4 +1,4 @@
-First of all, excuse my unprofessional code. This was the first "major" project I made after learing python.
+First of all, excuse my bs code. This was the first "major" project I made after learing python.
 
 
 # Auto Typer/Clicker
